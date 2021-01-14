@@ -1,2 +1,2 @@
-# 1 Fundamentals of Testing
+# 1. Fundamentals of Testing
 
