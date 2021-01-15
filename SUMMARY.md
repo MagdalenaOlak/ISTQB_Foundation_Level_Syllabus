@@ -36,6 +36,8 @@
     * [5.2.2 Test Strategy and Test Approach](5-test-management/5.2-test-planning-and-estimation/5.2.2-test-strategy-and-test-approach.md)
     * [5.2.3 Entry Criteria and Exit Criteria \(Definition of Ready and Definition of Done\)](5-test-management/5.2-test-planning-and-estimation/5.2.3-entry-criteria-and-exit-criteria-definition-of-ready-and-definition-of-done.md)
     * [5.2.4 Test Execution Schedule](5-test-management/5.2-test-planning-and-estimation/5.2.4-test-execution-schedule.md)
+    * [5.2.5 Factors Influencing the Test Effort](5-test-management/5.2-test-planning-and-estimation/5.2.5-factors-influencing-the-test-effort.md)
+    * [5.2.6 Test Estimation Techniques](5-test-management/5.2-test-planning-and-estimation/5.2.6-test-estimation-techniques.md)
   * [5.3 Test Monitoring and Control](5-test-management/5.3-test-monitoring-and-control.md)
   * [5.4 Configuration Management](5-test-management/5.4-configuration-management.md)
   * [5.6 Defect Management](5-test-management/5.6-defect-management.md)
