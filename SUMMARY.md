@@ -7,6 +7,7 @@
     * [1.1.2. Testing and Debugging](1-fundamentals-of-testing/1.1-what-is-testing/1.1.2-testing-and-debugging.md)
   * [1.2. Why is Testing Necessary?](1-fundamentals-of-testing/1.2-why-is-testing-necessary/README.md)
     * [1.2.1 Testing’s Contributions to Success](1-fundamentals-of-testing/1.2-why-is-testing-necessary/1.2.1-testings-contributions-to-success.md)
+    * [1.2.2 Quality Assurance and Testing](1-fundamentals-of-testing/1.2-why-is-testing-necessary/1.2.2-quality-assurance-and-testing.md)
   * [1.3. Seven Testing Principles](1-fundamentals-of-testing/1.3-seven-testing-principles.md)
   * [1.4. Test Process](1-fundamentals-of-testing/1.4-test-process.md)
   * [1.5. The Psychology of Testing](1-fundamentals-of-testing/1.5-the-psychology-of-testing.md)
