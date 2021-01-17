@@ -18,6 +18,7 @@
     * [1.4.4 Traceability between the Test Basis and Test Work Products](1-fundamentals-of-testing/1.4-test-process/1.4.4-traceability-between-the-test-basis-and-test-work-products.md)
   * [1.5. The Psychology of Testing](1-fundamentals-of-testing/1.5-the-psychology-of-testing/README.md)
     * [1.5.1 Human Psychology and Testing](1-fundamentals-of-testing/1.5-the-psychology-of-testing/1.5.1-human-psychology-and-testing.md)
+    * [1.5.2 Tester’s and Developer’s Mindsets](1-fundamentals-of-testing/1.5-the-psychology-of-testing/1.5.2-testers-and-developers-mindsets.md)
 * [2. Testing Throughout the Software Development Lifecycle](2-testing-throughout-the-software-development-lifecycle/README.md)
   * [2.1. Software Development Lifecycle Models](2-testing-throughout-the-software-development-lifecycle/2.1.-software-development-lifecycle-models/README.md)
     * [2.1.1. Software Development and Software Testing](2-testing-throughout-the-software-development-lifecycle/2.1.-software-development-lifecycle-models/2.1.1.-software-development-and-software-testing.md)
