@@ -14,6 +14,8 @@
   * [1.4. Test Process](1-fundamentals-of-testing/1.4-test-process/README.md)
     * [1.4.1 Test Process in Context](1-fundamentals-of-testing/1.4-test-process/1.4.1-test-process-in-context.md)
     * [1.4.2 Test Activities and Tasks](1-fundamentals-of-testing/1.4-test-process/1.4.2-test-activities-and-tasks.md)
+    * [1.4.3 Test Work Products](1-fundamentals-of-testing/1.4-test-process/1.4.3-test-work-products.md)
+    * [1.4.4 Traceability between the Test Basis and Test Work Products](1-fundamentals-of-testing/1.4-test-process/1.4.4-traceability-between-the-test-basis-and-test-work-products.md)
   * [1.5. The Psychology of Testing](1-fundamentals-of-testing/1.5-the-psychology-of-testing.md)
 * [2. Testing Throughout the Software Development Lifecycle](2-testing-throughout-the-software-development-lifecycle/README.md)
   * [2.1. Software Development Lifecycle Models](2-testing-throughout-the-software-development-lifecycle/2.1.-software-development-lifecycle-models/README.md)
