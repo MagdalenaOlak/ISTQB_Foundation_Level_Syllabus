@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Magdalena Olak - Disclaimer](README.md)
+* [Magdalena Olak - article is a copy from the original document ISTQB CTFL Syllabus 2018 V3.1](README.md)
 * [1. Fundamentals of Testing](1-fundamentals-of-testing/README.md)
   * [1.1. What is Testing?](1-fundamentals-of-testing/1.1-what-is-testing/README.md)
     * [1.1.1. Typical Objectives of Testing](1-fundamentals-of-testing/1.1-what-is-testing/1.1.1-typical-objectives-of-testing.md)
