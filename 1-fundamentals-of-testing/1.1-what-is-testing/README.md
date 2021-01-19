@@ -10,3 +10,9 @@ Another common misperception of testing is that it focuses entirely on verificat
 
 Test activities are organized and carried out differently in different lifecycles \(see section 2.1\).
 
+{% page-ref page="1.1.1-typical-objectives-of-testing.md" %}
+
+{% page-ref page="1.1.2-testing-and-debugging.md" %}
+
+
+
