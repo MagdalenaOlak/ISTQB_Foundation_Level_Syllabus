@@ -42,6 +42,7 @@
   * [3.1 Static Testing Basics](3-static-testing/3.1-static-testing-basics/README.md)
     * [3.1.1 Work Products that Can Be Examined by Static Testing](3-static-testing/3.1-static-testing-basics/3.1.1-work-products-that-can-be-examined-by-static-testing.md)
     * [3.1.2 Benefits of Static Testing](3-static-testing/3.1-static-testing-basics/3.1.2-benefits-of-static-testing.md)
+    * [3.1.3 Differences between Static and Dynamic Testing](3-static-testing/3.1-static-testing-basics/3.1.3-differences-between-static-and-dynamic-testing.md)
   * [3.2 Review Process](3-static-testing/3.2-review-process.md)
 * [Untitled](untitled.md)
 * [4 Test Techniques](4-test-techniques.md)
