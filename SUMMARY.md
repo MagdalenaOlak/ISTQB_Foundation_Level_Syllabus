@@ -45,6 +45,7 @@
     * [3.1.3 Differences between Static and Dynamic Testing](3-static-testing/3.1-static-testing-basics/3.1.3-differences-between-static-and-dynamic-testing.md)
   * [3.2 Review Process](3-static-testing/3.2-review-process/README.md)
     * [3.2.1 Work Product Review Process](3-static-testing/3.2-review-process/3.2.1-work-product-review-process.md)
+    * [3.2.2 Roles and responsibilities in a formal review](3-static-testing/3.2-review-process/3.2.2-roles-and-responsibilities-in-a-formal-review.md)
 * [Untitled](untitled.md)
 * [4 Test Techniques](4-test-techniques.md)
 * [5 Test Management](5-test-management/README.md)
