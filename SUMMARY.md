@@ -48,6 +48,7 @@
     * [3.2.2 Roles and responsibilities in a formal review](3-static-testing/3.2-review-process/3.2.2-roles-and-responsibilities-in-a-formal-review.md)
     * [3.2.3 Review Types](3-static-testing/3.2-review-process/3.2.3-review-types.md)
     * [3.2.4 Applying Review Techniques](3-static-testing/3.2-review-process/3.2.4-applying-review-techniques.md)
+    * [3.2.5 Success Factors for Reviews](3-static-testing/3.2-review-process/3.2.5-success-factors-for-reviews.md)
 * [Untitled](untitled.md)
 * [4 Test Techniques](4-test-techniques.md)
 * [5 Test Management](5-test-management/README.md)
