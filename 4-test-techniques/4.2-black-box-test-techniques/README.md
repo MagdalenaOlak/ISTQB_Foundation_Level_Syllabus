@@ -9,3 +9,5 @@ Equivalence partitioning divides data into partitions \(also known as equivalenc
 * Each value must belong to one and only one equivalence partition. 
 * When invalid equivalence partitions are used in test cases, they should be tested individually, i.e., not combined with other invalid equivalence partitions, to ensure that failures are not masked. Failures can be masked when several failures occur at the same time but only one is visible, causing the other failures to be undetected.
 
+To achieve 100% coverage with this technique, test cases must cover all identified partitions \(including invalid partitions\) by using a minimum of one value from each partition. Coverage is measured as the number of equivalence partitions tested by at least one value, divided by the total number of identified equivalence partitions, normally expressed as a percentage. Equivalence partitioning is applicable at all test levels.
+
