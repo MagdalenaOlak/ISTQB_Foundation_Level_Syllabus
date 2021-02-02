@@ -7,15 +7,3 @@ A test type is a group of test activities aimed at testing specific characterist
 * Evaluating whether the structure or architecture of the component or system is correct, complete, and as specified 
 * Evaluating the effects of changes, such as confirming that defects have been fixed \(confirmation testing\) and looking for unintended changes in behavior resulting from software or environment changes \(regression testing\)
 
-{% page-ref page="2.3.1.-functional-testing.md" %}
-
-{% page-ref page="2.3.2.-non-functional-testing.md" %}
-
-{% page-ref page="2.3.3.-white-box-testing.md" %}
-
-{% page-ref page="2.3.4.-change-related-testing.md" %}
-
-{% page-ref page="2.3.5.-test-types-and-test-levels.md" %}
-
-
-
