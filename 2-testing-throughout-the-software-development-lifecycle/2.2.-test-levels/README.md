@@ -19,13 +19,3 @@ Test levels are groups of test activities that are organized and managed togethe
 
 For every test level, a suitable test environment is required. In acceptance testing, for example, a production-like test environment is ideal, while in component testing the developers typically use their own development environment.
 
-{% page-ref page="2.2.1.-component-testing.md" %}
-
-{% page-ref page="2.2.2-integration-testing.md" %}
-
-{% page-ref page="2.2.3.-system-testing.md" %}
-
-{% page-ref page="2.2.4.-acceptance-testing.md" %}
-
-
-
