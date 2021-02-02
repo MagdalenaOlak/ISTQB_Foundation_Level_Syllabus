@@ -10,9 +10,5 @@ A maintenance release may require maintenance testing at multiple test levels, u
 * The size of the existing system 
 * The size of the change
 
-{% page-ref page="2.4.1-triggers-for-maintenance.md" %}
-
-{% page-ref page="2.4.2-impact-analysis-for-maintenance.md" %}
-
 
 
