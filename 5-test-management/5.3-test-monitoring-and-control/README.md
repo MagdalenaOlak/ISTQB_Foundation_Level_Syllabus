@@ -10,9 +10,3 @@ Examples of test control actions include:
 * Changing the test schedule due to availability or unavailability of a test environment or other resources 
 * Re-evaluating whether a test item meets an entry or exit criterion due to rework
 
-{% page-ref page="5.3.1-metrics-used-in-testing.md" %}
-
-{% page-ref page="5.3.2-purposes-contents-and-audiences-for-test-reports.md" %}
-
-
-
