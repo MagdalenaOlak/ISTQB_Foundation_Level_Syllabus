@@ -7,11 +7,3 @@ Test tools can be used to support one or more testing activities. Such tools inc
 * Tools that are used for analysis and evaluation 
 * Any tool that assists in testing \(a spreadsheet is also a test tool in this meaning\)
 
-{% page-ref page="6.1.1-test-tool-classification.md" %}
-
-{% page-ref page="6.1.2-benefits-and-risks-of-test-automation.md" %}
-
-{% page-ref page="6.1.3-special-considerations-for-test-execution-and-test-management-tools.md" %}
-
-
-
